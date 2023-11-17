@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francisco
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML, CSS, JS 
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects/jobs
 - 📫 How to reach me: franspecial1@hotmail.com
 
 <!---
